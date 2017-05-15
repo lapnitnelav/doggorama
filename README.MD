@@ -1,6 +1,6 @@
 ## Doggorama
 
-Shamelessly inspired by [http://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/](this project), Doggorama is a simple slash command allowing you to search dog names and their popularity.
+Shamelessly inspired by [this project](http://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/), Doggorama is a simple slash command allowing you to search dog names and their popularity.
 
 #### How to use :
 * _/doggorama topdoggos_ will give you the most used dog names
