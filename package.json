@@ -1,0 +1,17 @@
+{
+  "name": "doggoapp",
+  "version": "1.0.0",
+  "description": "All your dog name needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "csv-parser": "^1.11.0",
+    "express": "^4.15.2",
+    "interval-tree2": "^1.1.0"
+  }
+}
